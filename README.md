@@ -1,33 +1,48 @@
-# ¡Hola! Soy Juan Paxtor 👋
+<p align="left">
+  <a href="https://twitter.com/JuanManuPxT1" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-Soy un desarrollador Fullstack y estudiante de ingeniería en sistemas, siempre buscando optimizar procesos y crear soluciones eficientes. 
-
-### 🛠️ Tecnologías y Herramientas
-
-**Frontend & Backend:**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Bases de Datos:**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Entorno & Hardware:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### ⚡ Sobre mí
-
-- 💻 Actualmente enfocándome en el desarrollo de sistemas POS y explorando arquitecturas limpias.
-- ⚙️ Me gusta trastear con electrónica, automatización y placas ESP32/ESP8266.
-- 🏃‍♂️ En mi tiempo libre trato de mantener el balance yendo al gimnasio, corriendo, o simplemente leyendo (y sí, soy fan de Spiderman 🕷️).
-- 📫 Abierto a nuevas oportunidades profesionales y dispuesto a reubicarme.
+<h3 align="center">👋 Hi, I'm Juan Paxtor</h3>
+<p align="center">I'm a software developer from Guatemala 🇬🇹</p>
 
 ---
-<!-- Estadísticas de GitHub -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JPaxtor&show_icons=true&theme=radical" alt="Estadísticas de JPaxtor" />
-</div>
+
+## Stats
+
+<p align="center">
+  <a href="https://github.com/JPaxtor">
+    <img src="https://github-readme-stats.vercel.app/api?username=JPaxtor&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/JPaxtor">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPaxtor&theme=transparent&hide_border=true&layout=compact&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JPaxtor">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPaxtor&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## Skills
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,mysql" />
+  </a>
+</p>
+
+### Frameworks & Libraries (and Tools)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,linux,ubuntu,arduino" />
+  </a>
+</p>
